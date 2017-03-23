@@ -1,0 +1,52 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Analyzer - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\gaoy\LOCALS~1\Temp\RSP138.tmp" with contents
+[
+libeay32.lib ssleay32.lib Ws2_32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Analyzer.pdb" /debug /machine:I386 /out:"../SETUP/Bin/Analyzer.exe" /pdbtype:sept 
+.\Debug\Analyzer.obj
+.\Debug\AnalyzerDlg.obj
+.\Debug\CAttribute.obj
+.\Debug\CBase.obj
+.\Debug\CElement.obj
+.\Debug\CHtml.obj
+.\Debug\CHtmlTagMap.obj
+.\Debug\CMyAny.obj
+.\Debug\CMyDispatcher.obj
+.\Debug\CMyExpression.obj
+.\Debug\CMyHtml2XmlWorker.obj
+.\Debug\CMyVarSpace.obj
+.\Debug\CMyWorker.obj
+.\Debug\CNode.obj
+.\Debug\Connection.obj
+.\Debug\CTag.obj
+.\Debug\CText.obj
+.\Debug\HttpClient.obj
+.\Debug\ModulePath.obj
+.\Debug\SingleEntry.obj
+.\Debug\StdAfx.obj
+.\Debug\StrArray.obj
+.\Debug\tinystr.obj
+.\Debug\tinyxml.obj
+.\Debug\tinyxmlerror.obj
+.\Debug\tinyxmlparser.obj
+.\Debug\Tracer.obj
+.\Debug\Utility.obj
+.\Debug\Analyzer.res
+]
+Creating command line "link.exe @C:\DOCUME~1\gaoy\LOCALS~1\Temp\RSP138.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+Analyzer.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

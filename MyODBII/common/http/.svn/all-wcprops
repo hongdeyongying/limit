@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/http
+END
+HttpClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/http/HttpClient.cpp
+END
+Connection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/http/Connection.cpp
+END
+HttpClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/http/HttpClient.h
+END
+Connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/http/Connection.h
+END
+mysoft_http.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/http/mysoft_http.h
+END
+gzip_mem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/http/gzip_mem.cpp
+END
+gzip_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/http/gzip_mem.h
+END

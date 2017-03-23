@@ -1,0 +1,250 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\Analyzer.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\Analyzer.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 359, 125
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于My-Soft: HTML分析库"
+FONT 9, "宋体"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,7,13,21,21
+    LTEXT           "My-Soft 原创软件版权所有 (C) 2009",IDC_STATIC,33,99,179,
+                    8
+    DEFPUSHBUTTON   "确定",IDOK,302,15,50,14,WS_GROUP
+    EDITTEXT        IDC_EDIT1,32,15,268,75,ES_MULTILINE | ES_AUTOVSCROLL | 
+                    ES_READONLY
+END
+
+IDD_ANALYZER_DIALOG DIALOGEX 0, 0, 525, 391
+STYLE DS_MODALFRAME | WS_MINIMIZEBOX | WS_POPUP | WS_VISIBLE | WS_CAPTION | 
+    WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "My-Soft: HTML分析库使用示例"
+MENU IDR_MENU1
+FONT 9, "宋体"
+BEGIN
+    PUSHBUTTON      "解析文本框内容",IDOK,7,28,64,14
+    DEFPUSHBUTTON   "解析文件",IDFILE,468,7,50,14
+    EDITTEXT        IDC_EDIT1,7,44,511,16,ES_MULTILINE | ES_AUTOHSCROLL | 
+                    WS_VSCROLL
+    CONTROL         "Tree1",IDC_TREE1,"SysTreeView32",TVS_HASBUTTONS | 
+                    TVS_HASLINES | TVS_LINESATROOT | TVS_EDITLABELS | 
+                    TVS_SHOWSELALWAYS | WS_BORDER | WS_TABSTOP,7,164,511,182
+    EDITTEXT        IDC_EDIT2,7,7,431,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_BUTTON1,439,7,19,14
+    PUSHBUTTON      "开始",IDC_BUTTON_begin,357,27,50,14
+    PUSHBUTTON      "中间",IDC_BUTTON_mid,413,27,50,14,WS_DISABLED
+    PUSHBUTTON      "结束",IDC_BUTTON_end,468,27,50,14,WS_DISABLED
+    LTEXT           "HTML文档树视图",IDC_STATIC,7,153,57,8
+    LTEXT           "解析的内容也可以不必一次输入完整，你可以分多次输入，作为一个文档解析",
+                    IDC_STATIC,77,30,273,8
+    PUSHBUTTON      "清除树视图中内容(&C)",IDC_BUTTON_Clear,423,149,95,14
+    LTEXT           "对最后分析得出的HTML树进行查询:",IDC_STATIC,7,350,126,8
+    EDITTEXT        IDC_EDIT_PARAM,135,348,54,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "按节点名检索",IDC_BUTTON_S_TAG,298,348,70,14
+    PUSHBUTTON      "按照属性ID检索",IDC_BUTTON_S_ID,370,348,73,14
+    PUSHBUTTON      "按照属性NAME检索",IDC_BUTTON_S_NAME,446,348,72,14
+    EDITTEXT        IDC_EDIT_PARAM2,190,347,54,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "按属性值检索",BTN_NV,246,347,50,14
+    EDITTEXT        IDC_EDIT_TAGNAME_MODE,299,365,67,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "Button2",IDC_BUTTON2,134,365,50,14
+    CONTROL         "",IDC_RICHEDIT1,"RICHEDIT",ES_MULTILINE | 
+                    ES_AUTOVSCROLL | WS_BORDER | WS_VSCROLL | WS_TABSTOP,7,
+                    62,511,86
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404B0"
+        BEGIN
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "Analyzer Microsoft 基础类应用程序\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "Analyzer\0"
+            VALUE "LegalCopyright", "版权所有 (C) 2009\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "Analyzer.EXE\0"
+            VALUE "ProductName", "Analyzer 应用程序\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 352
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 118
+    END
+
+    IDD_ANALYZER_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 518
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 384
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU DISCARDABLE 
+BEGIN
+    POPUP "帮助(&H)"
+    BEGIN
+        MENUITEM "本机手册(&L)",                ID_MENUITEM_MAN
+        MENUITEM "在线信息(&O)",                ID_MENUITEM_ONLINE
+        MENUITEM "程序版本(&V)",                ID_MENUITEM_VER
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "关于HTML分析库(&A)..."
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\Analyzer.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

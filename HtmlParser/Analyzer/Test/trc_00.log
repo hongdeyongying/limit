@@ -1,0 +1,488 @@
+
+2009-12-07 23:07:30
+
+2009-12-07 23:13:12
+
+2009-12-07 23:13:39POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=8860&password=test.hu&userid=tencent%40testagent
+
+2009-12-07 23:14:09POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=8860&password=test.hu&userid=tencent%40testagent
+
+2009-12-07 23:16:28POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=8860&password=test.hu&userid=tencent%40testagent
+
+2009-12-07 23:23:47POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=8860&password=test.hu&userid=tencent%40testagent
+
+2009-12-07 23:24:42POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=8860&password=test.hu&userid=tencent%40testagent
+
+2009-12-07 23:25:34POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=8860&password=test.hu&userid=tencent%40testagent
+
+2009-12-07 23:26:26POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=8860&password=test.hu&userid=tencent%40testagent
+
+2009-12-07 23:33:23POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=0000lPV8HdsUEsHVgi9VoO2JUJS:11h3ce6ve
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=8860&password=test.hu&userid=tencent%40testagent
+
+2009-12-07 23:34:55POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=0000lPV8HdsUEsHVgi9VoO2JUJS:11h3ce6ve
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=8860&password=test.hu&userid=tencent%40testagent
+
+2009-12-07 23:36:19POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=0000lPV8HdsUEsHVgi9VoO2JUJS:11h3ce6ve
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=8860&password=test.hu&userid=tencent%40testagent
+
+2009-12-07 23:57:09POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=0000lPV8HdsUEsHVgi9VoO2JUJS:11h3ce6ve
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=7210&password=test.hu&userid=tencent%40testagent
+
+2009-12-07 23:57:15POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=0000lPV8HdsUEsHVgi9VoO2JUJS:11h3ce6ve
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=7210&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:08:11POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=0000lPV8HdsUEsHVgi9VoO2JUJS:11h3ce6ve
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=7210&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:08:19POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=0000lPV8HdsUEsHVgi9VoO2JUJS:11h3ce6ve
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=7210&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:08:36POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=0000lPV8HdsUEsHVgi9VoO2JUJS:11h3ce6ve
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=7210&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:09:33POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=0000lPV8HdsUEsHVgi9VoO2JUJS:11h3ce6ve
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=7210&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:13:04POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=0000lPV8HdsUEsHVgi9VoO2JUJS:11h3ce6ve
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=7210&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:13:46POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=0000lPV8HdsUEsHVgi9VoO2JUJS:11h3ce6ve
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=7210&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:15:24POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=0000lPV8HdsUEsHVgi9VoO2JUJS:11h3ce6ve
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=7210&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:19:27POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=000063_WnA0sPJLKEPGAIHem5dT:11na045pl
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=2360&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:20:09POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=000063_WnA0sPJLKEPGAIHem5dT:11na045pl
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=2360&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:24:11POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=000063_WnA0sPJLKEPGAIHem5dT:11na045pl
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=2360&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:24:26GET /huet/b2b/newindex.jsp HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=000063_WnA0sPJLKEPGAIHem5dT:11na045pl
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+
+
+2009-12-08 00:25:10POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=000063_WnA0sPJLKEPGAIHem5dT:11na045pl
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=2360&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:25:11GET /huet/b2b/newindex.jsp HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=000063_WnA0sPJLKEPGAIHem5dT:11na045pl
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+
+
+2009-12-08 00:27:29POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=000063_WnA0sPJLKEPGAIHem5dT:11na045pl
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=2360&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:27:31GET /huet/b2b/newindex.jsp HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=000063_WnA0sPJLKEPGAIHem5dT:11na045pl
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+
+
+2009-12-08 00:28:05POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=000063_WnA0sPJLKEPGAIHem5dT:11na045pl
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=2360&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:28:07GET /huet/b2b/newindex.jsp HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=000063_WnA0sPJLKEPGAIHem5dT:11na045pl
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+
+
+2009-12-08 00:28:22POST /huet/login.do HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Length:68
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=000063_WnA0sPJLKEPGAIHem5dT:11na045pl
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+x=21&y=11&checkcode=2360&password=test.hu&userid=tencent%40testagent
+
+2009-12-08 00:28:24GET /huet/b2b/newindex.jsp HTTP/1.1
+Accept:image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-silverlight, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-cn
+Cache-Control:no-cache
+Connection:Close
+Content-Type:application/x-www-form-urlencoded
+Cookie:AlteonP=348731ae34873139baeebab6; JSESSIONID=000063_WnA0sPJLKEPGAIHem5dT:11na045pl
+Host:hnair.travelsky.com
+Referer:http://hnair.travelsky.com/huet/
+UA-CPU:x86
+User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 1.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+

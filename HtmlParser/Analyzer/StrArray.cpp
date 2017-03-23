@@ -1,0 +1,26 @@
+// StrArray.cpp: implementation of the CStrArray class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "StrArray.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CStrArray::CStrArray()
+{
+
+}
+
+CStrArray::~CStrArray()
+{
+
+}

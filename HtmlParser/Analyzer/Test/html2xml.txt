@@ -1,0 +1,105 @@
+<root>
+	<!--
+	选择器： 
+		批量节点
+			按照节点名检索
+				tag(para_tag_name)
+			按照属性检索	
+				id(para_id_value)
+				name(para_name_value)
+				nv(para_attr_name_name,attr_name_value)
+		批量节点值
+			count
+			
+		单个节点	
+			按照数组序号检索
+				item(index)
+	
+		单个值
+			取节点相应属性的值
+				attr(para_attr_name_name)
+			取节点中间文本
+				text 
+				
+	
+	运算器
+		left是否包含right
+			bool has(left,right)  
+			bool head_has(left,right)  
+			bool tail_has(left,right)  			
+		left是否等于right
+			bool equ(left,right)
+		left是否大于right
+			bool big(left,rigth)
+		left是否小于right
+			bool little(left,right)
+		left减去right
+			int sub(left,right)
+		left加上right
+			int inc(left,right)
+	
+	控制器
+		if 
+		for
+		
+	变量定义
+		$identify
+		如果identify的变量不存在，则创建；否则引用
+	
+	输出器
+		echo
+	赋值器
+		assign
+		定义的变量可以在下面用$identify引用
+		
+		类型：integer,string
+	
+			
+			
+	-->
+	<my-soft::assign id="name" type="context" value="yong" />
+	<my-soft::assign id="response" type="file" value="yong" />
+	<my-soft::if condition="has($respone.tag(a).item(0).attr(src),www.tenpay.com)">
+		<my-soft::true>
+			<retcode>0</retcode>
+			<retmsg>成功</retmsg>
+			<urls>
+				<count> <my-soft::echo>$response.tag(a).count</my-soft::echo> </count>
+				<my-soft::for define="$tm=$response.tag(a).count" condition="big($tm,1)" change="$tm=minus($tm,1)" >
+					<url>	<my-soft::echo>$respone.tag(a).item($tm).attr(src)</my-soft::echo></url>
+				</my-soft::for>
+			</urls>
+		</my-soft::true>
+		<my-soft::false>
+			<retcode>1</retcode>
+			<retmsg>失败</retmsg>
+		</my-soft::false>
+	</my-soft::if>
+	
+	<!-- a real example -->
+	
+	<my-soft::invoke service="httpcall" retvar="response">
+		<parameter name="" value="" />
+		<parameter name="" value="" />
+		<parameter name="" value="" />
+		<parameter name="" value="" />
+	</my-soft::invoke>
+	
+	<my-soft::aasign id="htmlSource" expr="parse_html(0,$response)"  />
+	
+	<my-soft::switch expr="big(count(tag($htmlSource,a,0)),0)" >
+		<my-soft::case value="true">
+			<my-soft::aasign id="var" expr="0"  />
+			<my-soft::for condition="small($var,count(tag($htmlSource,a,0)))" recycle="inc($var)" >
+				<my-soft::echo type="expr" value="text(item(tag($htmlSource,a,0),$var))" />
+				<my-soft::echo type="const" value="text(item(tag($htmlSource,a,0),$var))" />
+				<my-soft::echo type="var" value="text(item(tag($htmlSource,a,0),$var))" />
+			</my-soft::for>
+		</my-soft::case>
+		<my-soft::case value="false">
+		</my-soft::case>
+		<my-soft::default>
+		</my-soft::default>
+	</my-soft::switch>
+	
+</root>

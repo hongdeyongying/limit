@@ -1,0 +1,6 @@
+#ifndef MY_MESSAGE_H_2011_8_8_21_59
+#define MY_MESSAGE_H_2011_8_8_21_59
+
+//#define ID_INDICATOR_OBDII WM_USER+5819
+
+#endif

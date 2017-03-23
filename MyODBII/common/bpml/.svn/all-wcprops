@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml
+END
+myEncrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/myEncrypt.h
+END
+CMyDispatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/CMyDispatcher.cpp
+END
+CMyAny.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/CMyAny.cpp
+END
+myflow_macro.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/myflow_macro.h
+END
+CMyAnyMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/CMyAnyMap.h
+END
+EVarType.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/EVarType.h
+END
+CMyDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/CMyDispatcher.h
+END
+CMyAny.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/CMyAny.h
+END
+CMyExpression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/CMyExpression.cpp
+END
+CMyHtml2XmlWorker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/CMyHtml2XmlWorker.cpp
+END
+CMyVarSpace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/CMyVarSpace.cpp
+END
+CMyExpression.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/CMyExpression.h
+END
+CMyHtml2XmlWorker.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/CMyHtml2XmlWorker.h
+END
+CMyWorker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/CMyWorker.cpp
+END
+CMyVarSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/CMyVarSpace.h
+END
+CMyWorker.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/isd/isd_qzoneplatformdev_rep/!svn/ver/66942/QzoneBasePlatform_proj/trunk/application/directed_content/server/DirectedContent/bpml/CMyWorker.h
+END

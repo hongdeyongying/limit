@@ -1,0 +1,43 @@
+<root>
+	<!--
+	调用器
+		invoke
+			request
+				parameter
+			response
+				parameter
+	
+	控制器
+		if else 
+		switch case		
+		for
+		
+	任务
+		jobs
+		顺序任务 
+			 job :input/output : 独立的名字空间，
+		并行任务
+			parallel_job: input/output : 并行 
+	-->
+	<my-soft::jobs>
+		<my-soft::job>
+			<my-soft::assign identify="name" type="integer" value="yong" /></my-soft::assign>
+			<my-soft::if condition="has($respone.tag(a).item(0).attr(src),www.tenpay.com)">
+				<my-soft::true>
+					<retcode>0</retcode>
+					<retmsg>成功</retmsg>
+					<urls>
+						<count> <my-soft::echo>$response.tag(a).count</my-soft::echo> </count>
+						<my-soft::for define="$tm=$response.tag(a).count" condition="big($tm,1)" change="$tm=minus($tm,1)" >
+							<url>	<my-soft::echo>$respone.tag(a).item($tm).attr(src)</my-soft::echo></url>
+						</my-soft::for>
+					</urls>
+				</my-soft::true>
+				<my-soft::false>
+					<retcode>1</retcode>
+					<retmsg>失败</retmsg>
+				</my-soft::false>
+			</my-soft::if>
+		</my-soft::job>
+	</my-soft::jobs>
+</root>

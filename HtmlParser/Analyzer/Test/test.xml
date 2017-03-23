@@ -1,0 +1,55 @@
+<root>
+	<!-- httpcall²âÊÔ -->
+	<my-soft::invoke type="httpcall" retvar="response" filepath="G:\NEW_LIFE\SETUP\Cnf\hnair.travelsky.com.xml" service="Login" >
+		<my-soft::parameter name="userid" value="tencent@testagent" />
+		<my-soft::parameter name="password" value="test.hu" />
+		<my-soft::parameter name="checkcode" value="2360" />
+	</my-soft::invoke>
+	
+	<my-soft::assign id="htmlSource2" expr="parse_html(0,$response)"  /> 
+	<my-soft::switch expr="gt(count(nv($htmlSource2,id,span_msg)),0,0)" >
+		<my-soft::case value="true">
+			<my-soft::echo type="expr" value="text(item(nv($htmlSource2,id,span_msg),0))" />
+		</my-soft::case>
+		<my-soft::case value="false">
+			<my-soft::invoke type="httpcall" retvar="response" filepath="G:\NEW_LIFE\SETUP\Cnf\hnair.travelsky.com.xml" service="LoginPost" >
+				
+			</my-soft::invoke>
+			<my-soft::assign id="htmlSource2" expr="parse_html(0,$response)"  /> 
+			<my-soft::echo type="expr" value="text(item(tag($htmlSource2,span,0),5))" />
+			<!-- <my-soft::echo type="var" value="$response" /> -->
+		</my-soft::case>
+	</my-soft::switch>
+	
+	
+	<!-- ÎÄ¼þ²âÊÔ 
+	<my-soft::assign id="htmlSource" expr="parse_html(1,G%3A%5CNEW_LIFE%5CHtmlParser%5CAnalyzer1203%5CTest%5Chtml2xml%2Etxt)"  />
+	<my-soft::switch expr="gt(count(tag($htmlSource,a,2)),0,0)" >
+		<my-soft::case value="true">
+			<my-soft::assign id="var" expr="0"  />
+			<my-soft::echo type="var" value="%0d%0a%09" />
+			<records>
+			<my-soft::for condition="lt($var,count(tag($htmlSource,a,2)),0)" recycle="inc($var,1,var)" >
+				<my-soft::echo type="var" value="%0d%0a%09%09" />
+				<record>
+				<my-soft::echo type="var" value="%0d%0a%09%09%09%3cid%3e" />
+				<my-soft::echo type="expr" value="attr(item(tag($htmlSource,a,2),$var),id)" />
+				</id><value>
+				<my-soft::echo type="expr" value="attr(item(tag($htmlSource,a,2),$var),value)" />
+				</value><type>
+				<my-soft::echo type="expr" value="attr(item(tag($htmlSource,a,2),$var),type)" />
+				</type>
+				<my-soft::echo type="var" value="%0d%0a%09%09" />
+				</record>
+			</my-soft::for>
+			<my-soft::echo type="var" value="%0d%0a%09" />
+			</records>
+		</my-soft::case>
+		<my-soft::case value="false">
+		</my-soft::case>
+		<my-soft::default>
+		</my-soft::default>
+	</my-soft::switch>
+	<my-soft::echo type="var" value="%0d%0a" />
+	-->
+</root>	
