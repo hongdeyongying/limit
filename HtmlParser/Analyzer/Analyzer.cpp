@@ -64,6 +64,7 @@ BOOL CAnalyzerApp::InitInstance()
 		// TODO: Place code here to handle when the dialog is
 		//  dismissed with OK
 	}
+	// github test 20170323	
 	else if (nResponse == IDCANCEL)
 	{
 		// TODO: Place code here to handle when the dialog is
